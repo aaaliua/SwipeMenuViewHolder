@@ -26,4 +26,4 @@ swipeHolder.tvDelete.setOnClickListener(new View.OnClickListener() {
 });
 ```
 运行效果如下图：
-![](https://github.com/liangzhitao/SwipeMenuViewHolder/blob/master/swipe_menu_recyclerview.gif)
+![](https://github.com/liangzhitao/SwipeMenuRecyclerView/blob/master/swipe_menu_recyclerview.gif)
