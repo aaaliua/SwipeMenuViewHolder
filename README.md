@@ -5,6 +5,9 @@
 
 用法：
 
+添加依赖
+compile 'cn.easydone.swipemenuviewholder:SwipeMenuViewHolder:0.1'
+
 在 Adapter 里继承 SwipeMenuViewHolder ，在 onCreateViewHolder 方法里 inflate 要拖动的布局和拖出来的布局。
 ```Java
 View swipeMenuView = layoutInflater.inflate(R.layout.swipe_menu_view, viewGroup, false);
